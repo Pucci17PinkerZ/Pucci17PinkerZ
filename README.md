@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Who am I?<br>-  I am a student at 42 Lausanne.<br><br>What am I working on? <br>- I am currently developing Minishell as part of my curriculum,<br> while deep-diving into compilers on the side to better understand the machine.<br><br>What is my philosophy? <br>I love composing my own music and I live by the motto <br>"El flojo trabaja doble" (the lazy one works double), meaning I strive to do things right the first time.<br><br>What is my goal? <br>I aim to work in the field of AI to better understand where our world is going and contribute to the safety and alignment of AGI.
 
-<!--
-**Pucci17PinkerZ/Pucci17PinkerZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pucci17PinkerZ&theme=onedark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Pucci17PinkerZ&theme=onedark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pucci17PinkerZ&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
