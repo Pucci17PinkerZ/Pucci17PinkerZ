@@ -2,11 +2,10 @@
 
 [![El amor como esencia](https://readme-typing-svg.herokuapp.com?font=Limelight&size=35&duration=2000&pause=3000&repeat=true&color=7D13B0&width=435&lines=el+amor+como+esencia)](https://git.io/typing-svg)
 
-## 👨‍💻 Pucci/nfiora-D
+Hi i'm called pucci 
 
 Hi! I'm a driven student @ **42 Lausanne**, diving deep into code and AI.
-my often called pucci 
----
+
 
 ### 🛠️ Current Projects
 * **Minishell**: Building a shell from scratch in **C** (42 curriculum).
