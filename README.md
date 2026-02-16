@@ -2,7 +2,22 @@
 
 [![El amor como esencia](https://readme-typing-svg.herokuapp.com?font=Limelight&size=35&duration=2000&pause=3000&repeat=true&color=7D13B0&width=435&lines=el+amor+como+esencia)](https://git.io/typing-svg)
 
-Who am I?<br>-  I am a young student @ 42 Lausanne.<br><br>What am I working on? <br>- I am currently developing Minishell as part of my curriculum,<br> while deep-diving into compilers on the side to better understand the machine.<br><br>What is my philosophy? <br>I love composing my own music and I live by the motto <br>"El flojo trabaja doble" (the lazy one works double), meaning I strive to do things right the first time.<br><br>What is my goal? <br>I aim to work in the field of AI to better understand where our world is going and contribute to the safety and alignment of AGI.
+# 👨‍💻 Who am I?
+
+Hi! I'm a driven student @ **42 Lausanne**, diving deep into code and AI.
+
+---
+
+### 🛠️ Current Projects
+* **Minishell**: Building a shell from scratch in **C** (42 curriculum).
+* **Compilers**: Deep-diving into the machine to understand how code truly runs.
+
+### 💡 Philosophy
+> **"El flojo trabaja doble"** (The lazy one works double).
+> I strive for excellence by doing things right the first time. Outside of coding, I express my creativity through **music composition**. 🎵
+
+### 🚀 Goals & Vision
+Focused on the **AI field**, I aim to contribute to **AGI safety and alignment** to help shape a secure and meaningful future for our world.
 
 
 # 💻 Tech Stack:
