@@ -1,10 +1,10 @@
-# 🌱 Hi! Enjoy ;)
+# 🌱 Enjoy ;)
 
 [![El amor como esencia](https://readme-typing-svg.herokuapp.com?font=Limelight&size=35&duration=2000&pause=3000&repeat=true&color=7D13B0&width=435&lines=el+amor+como+esencia)](https://git.io/typing-svg)
 
-Hi i'm called pucci 
+### Hi i'm called Pucci !
 
-Hi! I'm a driven student @ **42 Lausanne**, diving deep into code and AI.
+I'm a driven student @ **42 Lausanne**, diving deep into code and AI.
 
 
 ### 🛠️ Current Projects
@@ -17,6 +17,7 @@ Hi! I'm a driven student @ **42 Lausanne**, diving deep into code and AI.
 
 ### 🚀 Goals & Vision
 Focused on the **AI field**, I aim to contribute to **AGI safety and alignment** to help shape a secure and meaningful future for our world.
+
 
 
 # 💻 Tech Stack:
