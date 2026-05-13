@@ -1,6 +1,6 @@
 # 🌱 Enjoy ;)
 
-[![El amor como esencia](https://readme-typing-svg.herokuapp.com?font=Limelight&size=35&duration=2000&pause=3000&repeat=true&color=7D13B0&width=435&lines=el+amor+como+esencia)](https://git.io/typing-svg)
+[![Todo es veneno, nada es veneno; lo que lo convierte en veneno es la bola.](https://readme-typing-svg.herokuapp.com?font=Limelight&size=35&duration=2000&pause=3000&repeat=true&color=7D13B0&width=435&lines=el+amor+como+esencia)](https://git.io/typing-svg)
 
 ### Hi i'm called Pucci !
 
